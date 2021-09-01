@@ -1,4 +1,4 @@
-### Ola mundo - Eu so o Fernando Lotti 🍵
+### Ola mundo - Eu sou o Fernando Lotti 🍵
 
 
 - 👨‍💻 Neste momento eu procuro uma oportunidade como desenvolvedor Back End Java.
