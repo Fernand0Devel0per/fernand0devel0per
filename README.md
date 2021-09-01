@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Neste momento eu procuro uma oportunidade como desenvolvedor Back End Java.
-- 🍃 Estou aprendedo Spring framework Java
+- 🍃 Estou aprendendo Spring framework Java
 - 💬 Sou uma pessoa dedicada, inteligente e colaborativa, adoro educação, ficção cientica, café, fazer amigos, e tecnologia.
 - 😄 É tudo sobre as pessoas.
 
