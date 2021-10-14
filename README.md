@@ -1,8 +1,8 @@
 ### Ola mundo - Eu sou o Fernando Lotti 🍵
 
 
-- 👨‍💻 Neste momento eu procuro uma oportunidade como desenvolvedor Back End Java.
-- 🍃 Estou aprendendo Spring framework Java
+- 👨‍💻 Estagiario Dev em TOTVS.
+- 🍃 Estou aprendendo .NET
 - 💬 Sou uma pessoa dedicada, inteligente e colaborativa, adoro educação, ficção cientica, café, fazer amigos, e tecnologia.
 - 😄 É tudo sobre as pessoas.
 
