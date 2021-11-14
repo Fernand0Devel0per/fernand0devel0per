@@ -1,4 +1,4 @@
-### Ola mundo - Eu sou o Fernando Lotti 🍵
+### Ola mundo - Eu sou o Fernando Lotti 👨‍💻
 
 
 - 👨‍💻 Estagiario Dev em TOTVS.
