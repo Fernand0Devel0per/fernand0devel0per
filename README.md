@@ -3,7 +3,7 @@
 
 - 👨‍💻 Estagiario Dev em TOTVS.
 - 🍃 Estou estudando ExpressJs
-- 💬 Sou mim, dedicado colaborativo, adoro educação, ficção cientica, café, fazer amigos, e tecnologia.
+- 💬 Sobre mim, dedicado colaborativo, adoro educação, ficção cientica, café, fazer amigos, e tecnologia.
 - 😄 Vitoria só vale se for no plural.
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
