@@ -1,8 +1,8 @@
 ### Ola mundo - Eu sou o Fernando Lotti 👨‍💻
 
 
-- 👨‍💻 Estagiario Dev em TOTVS.
-- 🍃 Estou estudando ExpressJs
+- 👨‍💻 Desenvolvedor Junior.
+- 🍃 Estou estudando Flutter
 - 💬 Sobre mim, dedicado colaborativo, adoro educação, ficção cientica, café, fazer amigos, e tecnologia.
 - 😄 Vitoria só vale se for no plural.
 
