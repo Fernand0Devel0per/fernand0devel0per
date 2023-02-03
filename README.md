@@ -1,8 +1,8 @@
 ### Ola mundo - Eu sou o Fernando Lotti 👨‍💻
 
 
-- 👨‍💻 Desenvolvedor Junior.
-- 🍃 Estou estudando Flutter
+- 👨‍💻 Desenvolvedor FullStack.
+- 🍃 Vue / .Net
 - 💬 Sobre mim, dedicado colaborativo, adoro educação, ficção cientica, café, fazer amigos, e tecnologia.
 - 😄 Vitoria só vale se for no plural.
 
