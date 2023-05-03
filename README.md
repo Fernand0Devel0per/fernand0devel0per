@@ -1,8 +1,8 @@
 ### Ola mundo - Eu sou o Fernando Lotti 👨‍💻
 
 
-- 👨‍💻 Desenvolvedor FullStack.
-- 🍃 Vue / .Net
+- 👨‍💻 Desenvolvedor.
+- 🍃 .Net
 - 💬 Sobre mim, dedicado colaborativo, adoro educação, ficção cientica, café, fazer amigos, e tecnologia.
 - 😄 Vitoria só vale se for no plural.
 
