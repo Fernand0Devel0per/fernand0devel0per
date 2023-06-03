@@ -1,7 +1,8 @@
 # Olá mundo, sou Fernando Lotti 👨‍💻
 
 Sou um desenvolvedor brasileiro apaixonado por aprender e desbravar novos conhecimentos no universo da tecnologia. Atualmente, atuo principalmente com a stack .NET, mas minha jornada me permitiu ganhar experiência em diversas outras linguagens como JavaScript, Java e Python. Acredito que vitória só vale se for no plural, por isso valorizo a colaboração e a educação contínua em tudo o que faço.
-🚀 Sobre a minha jornada
+
+## 🚀 Sobre a minha jornada
 
 Iniciei minha carreira como estagiário na TOTVS, auxiliando a equipe de desenvolvimento na construção de novas customizações do ERP Acrux Consinco e em ferramentas para integrar métricas e gestão.
 
